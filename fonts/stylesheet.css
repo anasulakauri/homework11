@@ -1,0 +1,300 @@
+@font-face {
+    font-family: 'ABeeZee';
+    src: url('ABeeZee-Regular.eot');
+    src: url('ABeeZee-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ABeeZee-Regular.woff2') format('woff2'),
+        url('ABeeZee-Regular.woff') format('woff'),
+        url('ABeeZee-Regular.svg#ABeeZee-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('Kanit-ExtraBoldItalic.eot');
+    src: url('Kanit-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Kanit-ExtraBoldItalic.woff2') format('woff2'),
+        url('Kanit-ExtraBoldItalic.woff') format('woff'),
+        url('Kanit-ExtraBoldItalic.svg#Kanit-ExtraBoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('Kanit-Medium.eot');
+    src: url('Kanit-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Kanit-Medium.woff2') format('woff2'),
+        url('Kanit-Medium.woff') format('woff'),
+        url('Kanit-Medium.svg#Kanit-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('Kanit-LightItalic.eot');
+    src: url('Kanit-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Kanit-LightItalic.woff2') format('woff2'),
+        url('Kanit-LightItalic.woff') format('woff'),
+        url('Kanit-LightItalic.svg#Kanit-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('Kanit-ExtraBold.eot');
+    src: url('Kanit-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Kanit-ExtraBold.woff2') format('woff2'),
+        url('Kanit-ExtraBold.woff') format('woff'),
+        url('Kanit-ExtraBold.svg#Kanit-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('Kanit-BlackItalic.eot');
+    src: url('Kanit-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('Kanit-BlackItalic.woff2') format('woff2'),
+        url('Kanit-BlackItalic.woff') format('woff'),
+        url('Kanit-BlackItalic.svg#Kanit-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('Kanit-ExtraLight.eot');
+    src: url('Kanit-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Kanit-ExtraLight.woff2') format('woff2'),
+        url('Kanit-ExtraLight.woff') format('woff'),
+        url('Kanit-ExtraLight.svg#Kanit-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('Kanit-SemiBold.eot');
+    src: url('Kanit-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Kanit-SemiBold.woff2') format('woff2'),
+        url('Kanit-SemiBold.woff') format('woff'),
+        url('Kanit-SemiBold.svg#Kanit-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('Kanit-BoldItalic.eot');
+    src: url('Kanit-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Kanit-BoldItalic.woff2') format('woff2'),
+        url('Kanit-BoldItalic.woff') format('woff'),
+        url('Kanit-BoldItalic.svg#Kanit-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('Kanit-Italic.eot');
+    src: url('Kanit-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Kanit-Italic.woff2') format('woff2'),
+        url('Kanit-Italic.woff') format('woff'),
+        url('Kanit-Italic.svg#Kanit-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('Kanit-Regular.eot');
+    src: url('Kanit-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Kanit-Regular.woff2') format('woff2'),
+        url('Kanit-Regular.woff') format('woff'),
+        url('Kanit-Regular.svg#Kanit-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('Kanit-ExtraLightItalic.eot');
+    src: url('Kanit-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Kanit-ExtraLightItalic.woff2') format('woff2'),
+        url('Kanit-ExtraLightItalic.woff') format('woff'),
+        url('Kanit-ExtraLightItalic.svg#Kanit-ExtraLightItalic') format('svg');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('Kanit-Black.eot');
+    src: url('Kanit-Black.eot?#iefix') format('embedded-opentype'),
+        url('Kanit-Black.woff2') format('woff2'),
+        url('Kanit-Black.woff') format('woff'),
+        url('Kanit-Black.svg#Kanit-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('Kanit-Light.eot');
+    src: url('Kanit-Light.eot?#iefix') format('embedded-opentype'),
+        url('Kanit-Light.woff2') format('woff2'),
+        url('Kanit-Light.woff') format('woff'),
+        url('Kanit-Light.svg#Kanit-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('Kanit-MediumItalic.eot');
+    src: url('Kanit-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('Kanit-MediumItalic.woff2') format('woff2'),
+        url('Kanit-MediumItalic.woff') format('woff'),
+        url('Kanit-MediumItalic.svg#Kanit-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('Kanit-Bold.eot');
+    src: url('Kanit-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Kanit-Bold.woff2') format('woff2'),
+        url('Kanit-Bold.woff') format('woff'),
+        url('Kanit-Bold.svg#Kanit-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('Kanit-ThinItalic.eot');
+    src: url('Kanit-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('Kanit-ThinItalic.woff2') format('woff2'),
+        url('Kanit-ThinItalic.woff') format('woff'),
+        url('Kanit-ThinItalic.svg#Kanit-ThinItalic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('Kanit-SemiBoldItalic.eot');
+    src: url('Kanit-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Kanit-SemiBoldItalic.woff2') format('woff2'),
+        url('Kanit-SemiBoldItalic.woff') format('woff'),
+        url('Kanit-SemiBoldItalic.svg#Kanit-SemiBoldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('Kanit-Thin.eot');
+    src: url('Kanit-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Kanit-Thin.woff2') format('woff2'),
+        url('Kanit-Thin.woff') format('woff'),
+        url('Kanit-Thin.svg#Kanit-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pridi';
+    src: url('Pridi-SemiBold.eot');
+    src: url('Pridi-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Pridi-SemiBold.woff2') format('woff2'),
+        url('Pridi-SemiBold.woff') format('woff'),
+        url('Pridi-SemiBold.svg#Pridi-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pridi';
+    src: url('Pridi-Regular.eot');
+    src: url('Pridi-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Pridi-Regular.woff2') format('woff2'),
+        url('Pridi-Regular.woff') format('woff'),
+        url('Pridi-Regular.svg#Pridi-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pridi';
+    src: url('Pridi-Light.eot');
+    src: url('Pridi-Light.eot?#iefix') format('embedded-opentype'),
+        url('Pridi-Light.woff2') format('woff2'),
+        url('Pridi-Light.woff') format('woff'),
+        url('Pridi-Light.svg#Pridi-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pridi';
+    src: url('Pridi-ExtraLight.eot');
+    src: url('Pridi-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Pridi-ExtraLight.woff2') format('woff2'),
+        url('Pridi-ExtraLight.woff') format('woff'),
+        url('Pridi-ExtraLight.svg#Pridi-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pridi';
+    src: url('Pridi-Bold.eot');
+    src: url('Pridi-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Pridi-Bold.woff2') format('woff2'),
+        url('Pridi-Bold.woff') format('woff'),
+        url('Pridi-Bold.svg#Pridi-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pridi';
+    src: url('Pridi-Medium.eot');
+    src: url('Pridi-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Pridi-Medium.woff2') format('woff2'),
+        url('Pridi-Medium.woff') format('woff'),
+        url('Pridi-Medium.svg#Pridi-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
